@@ -5,7 +5,7 @@ Library Mangement System( MySql Project)
  I build a project based on Library Management System.
  It keeps track of all information about books in the library, their cost, status and total number of books available in the library.
 
- Display all the tables and Write the queries for the following :
+ I Wrote the queries for the following :
 
 1. Retrieve the book title, category, and rental price of all available books. 
 2. List the employee names and their respective salaries in descending order of salary. 
@@ -19,4 +19,8 @@ Library Mangement System( MySql Project)
 10.Retrieve the branch numbers along with the count of employees for branches having more than 5 employees
 11. Retrieve the names of employees who manage branches and their respective branch addresses.
 12.  Display the names of customers who have issued books with a rental price higher than Rs. 25.
+
+
+
+
 entri d32 sql 
