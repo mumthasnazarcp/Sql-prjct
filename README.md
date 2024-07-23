@@ -6,6 +6,7 @@ Library Mangement System( MySql Project)
  It keeps track of all information about books in the library, their cost, status and total number of books available in the library.
 
  I Wrote the queries for the following :
+ 
 
 1. Retrieve the book title, category, and rental price of all available books. 
 2. List the employee names and their respective salaries in descending order of salary. 
