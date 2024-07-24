@@ -1,4 +1,4 @@
-# Sql-prjct
+# MySql-project
 
 Library Mangement System( MySql Project)
 
